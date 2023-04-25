@@ -49,6 +49,7 @@
      <Compile Include="Assets/PlayerGroundedState.cs" />
      <Compile Include="Assets/PlayerJumpState.cs" />
      <Compile Include="Assets/PlayerAirState.cs" />
+     <Compile Include="Assets/PlayerDashState.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets/Graphics/Surroundings/Medieval_Castle/Background" />
      <Folder Include="Assets/Graphics/FX/Thunder/Thunder Strike 2" />
