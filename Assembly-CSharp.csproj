@@ -41,22 +41,23 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets/PlayerState.cs" />
-     <Compile Include="Assets/Player.cs" />
-     <Compile Include="Assets/PlayerStateMachine.cs" />
-     <Compile Include="Assets/PlayerIdleState.cs" />
-     <Compile Include="Assets/PlayerMoveState.cs" />
-     <Compile Include="Assets/PlayerGroundedState.cs" />
-     <Compile Include="Assets/PlayerJumpState.cs" />
-     <Compile Include="Assets/PlayerAirState.cs" />
-     <Compile Include="Assets/PlayerDashState.cs" />
-     <Compile Include="Assets/PlayerWallSlideState.cs" />
-     <Compile Include="Assets/PlayerWallJumpState.cs" />
-     <Compile Include="Assets/PlayerPrimaryAttackState.cs" />
-     <Compile Include="Assets/PlayerAnimationTriggers.cs" />
+     <Compile Include="Assets/Scripts/PlayerStateMachine.cs" />
+     <Compile Include="Assets/Scripts/PlayerGroundedState.cs" />
+     <Compile Include="Assets/Scripts/PlayerDashState.cs" />
+     <Compile Include="Assets/Scripts/PlayerState.cs" />
+     <Compile Include="Assets/Scripts/PlayerWallJumpState.cs" />
+     <Compile Include="Assets/Scripts/PlayerMoveState.cs" />
+     <Compile Include="Assets/Scripts/Player.cs" />
+     <Compile Include="Assets/Scripts/PlayerIdleState.cs" />
+     <Compile Include="Assets/Scripts/PlayerJumpState.cs" />
+     <Compile Include="Assets/Scripts/PlayerAirState.cs" />
+     <Compile Include="Assets/Scripts/PlayerWallSlideState.cs" />
+     <Compile Include="Assets/Scripts/PlayerPrimaryAttackState.cs" />
+     <Compile Include="Assets/Scripts/PlayerAnimationTriggers.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets/Graphics/Surroundings/Medieval_Castle/Background" />
      <Folder Include="Assets/Graphics/FX/Thunder/Thunder Strike 2" />
+     <Folder Include="Assets/Scripts" />
      <Folder Include="Assets/Graphics/Enemies/Necro" />
      <Folder Include="Assets/Graphics/FX/Arcane/Arcane_Ball" />
      <Folder Include="Assets/Graphics/FX/Ice_Fire_Projectole" />
@@ -116,6 +117,7 @@
      <Folder Include="Assets/Graphics/FX/Void_Backlight" />
      <Folder Include="Assets/Graphics/Surroundings/Medieval_Castle" />
      <Folder Include="Assets/Graphics/Main Character" />
+     <Folder Include="Assets/Tile Palette" />
      <Folder Include="Assets/Graphics/Surroundings/Medieval_Castle/Decorations/Animated Decorations/torch_small" />
      <Folder Include="Assets/Graphics/Enemies/Briner of Death" />
      <Folder Include="Assets/Graphics/FX/Ice" />
