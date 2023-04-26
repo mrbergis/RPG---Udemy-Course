@@ -5,12 +5,9 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RPG - Udemy Course/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RPG - Udemy Course/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Animations/Player_AC.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Player_AC.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/playerWallSlide.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/playerWallSlide.anim" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayerDashState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayerDashState.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayerIdleState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayerIdleState.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayerMoveState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayerMoveState.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayerWallSlideState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayerWallSlideState.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlayerGroundedState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayerGroundedState.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlayerState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayerState.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,10 +17,12 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/PlayerAirState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PlayerAnimationTriggers.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/PlayerDashState.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/PlayerGroundedState.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/PlayerIdleState.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/PlayerJumpState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PlayerPrimaryAttackState.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/PlayerWallJumpState.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/PlayerWallSlideState.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -83,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682362903398</updated>
-      <workItem from="1682362905812" duration="26647000" />
+      <workItem from="1682362905812" duration="30322000" />
     </task>
     <servers />
   </component>
