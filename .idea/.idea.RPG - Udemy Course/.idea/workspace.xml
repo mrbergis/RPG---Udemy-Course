@@ -3,9 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="b197fdb1-71c6-421a-b212-feddd39adc59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RPG - Udemy Course/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RPG - Udemy Course/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayerDashState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayerDashState.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayerGroundedState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayerGroundedState.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlayerAirState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayerAirState.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlayerState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayerState.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +20,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/PlayerGroundedState.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/PlayerIdleState.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/PlayerJumpState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PlayerWallSlideState.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -75,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682362903398</updated>
-      <workItem from="1682362905812" duration="18695000" />
+      <workItem from="1682362905812" duration="23141000" />
     </task>
     <servers />
   </component>

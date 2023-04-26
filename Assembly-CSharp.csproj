@@ -50,6 +50,7 @@
      <Compile Include="Assets/PlayerJumpState.cs" />
      <Compile Include="Assets/PlayerAirState.cs" />
      <Compile Include="Assets/PlayerDashState.cs" />
+     <Compile Include="Assets/PlayerWallSlideState.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets/Graphics/Surroundings/Medieval_Castle/Background" />
      <Folder Include="Assets/Graphics/FX/Thunder/Thunder Strike 2" />
@@ -82,6 +83,7 @@
      <Folder Include="Assets/Graphics/Surroundings/Medieval_Castle/HUD" />
      <Folder Include="Assets/Graphics/Surroundings/Medieval_Castle/Decorations/Animated Decorations/torch_small_blue" />
      <Folder Include="Assets/Graphics/Surroundings/Medieval_Castle/Decorations/Animated Decorations/chest" />
+     <Folder Include="Assets/Materials" />
      <Folder Include="Assets/Graphics/Surroundings/Medieval_Castle/Decorations/Animated Decorations/torch_big_blue" />
      <Folder Include="Assets/Graphics/FX/MiniTornado" />
      <Folder Include="Assets/Graphics/FX/Arcane/Arcane_Charged_Bolt" />
