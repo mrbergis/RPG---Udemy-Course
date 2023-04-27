@@ -879,6 +879,45 @@
      <Reference Include="Unity.VisualScripting.State">
      <HintPath>/Volumes/Developer/Unity/Course/RPG - Udemy Course/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
      </Reference>
+     <Reference Include="Unity.Sequences.Editor">
+     <HintPath>/Volumes/Developer/Unity/Course/RPG - Udemy Course/Library/ScriptAssemblies/Unity.Sequences.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Recorder">
+     <HintPath>/Volumes/Developer/Unity/Course/RPG - Udemy Course/Library/ScriptAssemblies/Unity.Recorder.dll</HintPath>
+     </Reference>
+     <Reference Include="Autodesk.Fbx">
+     <HintPath>/Volumes/Developer/Unity/Course/RPG - Udemy Course/Library/ScriptAssemblies/Autodesk.Fbx.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Formats.Alembic.Editor">
+     <HintPath>/Volumes/Developer/Unity/Course/RPG - Udemy Course/Library/ScriptAssemblies/Unity.Formats.Alembic.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Sequences">
+     <HintPath>/Volumes/Developer/Unity/Course/RPG - Udemy Course/Library/ScriptAssemblies/Unity.Sequences.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Recorder.Base">
+     <HintPath>/Volumes/Developer/Unity/Course/RPG - Udemy Course/Library/ScriptAssemblies/Unity.Recorder.Base.dll</HintPath>
+     </Reference>
+     <Reference Include="Autodesk.Fbx.Editor">
+     <HintPath>/Volumes/Developer/Unity/Course/RPG - Udemy Course/Library/ScriptAssemblies/Autodesk.Fbx.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Formats.Fbx.Editor">
+     <HintPath>/Volumes/Developer/Unity/Course/RPG - Udemy Course/Library/ScriptAssemblies/Unity.Formats.Fbx.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Cinemachine">
+     <HintPath>/Volumes/Developer/Unity/Course/RPG - Udemy Course/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Formats.Alembic.Runtime">
+     <HintPath>/Volumes/Developer/Unity/Course/RPG - Udemy Course/Library/ScriptAssemblies/Unity.Formats.Alembic.Runtime.dll</HintPath>
+     </Reference>
+     <Reference Include="com.unity.cinemachine.editor">
+     <HintPath>/Volumes/Developer/Unity/Course/RPG - Udemy Course/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Recorder.Editor">
+     <HintPath>/Volumes/Developer/Unity/Course/RPG - Udemy Course/Library/ScriptAssemblies/Unity.Recorder.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Formats.Fbx.Runtime">
+     <HintPath>/Volumes/Developer/Unity/Course/RPG - Udemy Course/Library/ScriptAssemblies/Unity.Formats.Fbx.Runtime.dll</HintPath>
+     </Reference>
   </ItemGroup>
   <ItemGroup>
   </ItemGroup>
