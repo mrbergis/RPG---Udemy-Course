@@ -41,20 +41,23 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets/Scripts/PlayerStateMachine.cs" />
-     <Compile Include="Assets/Scripts/PlayerGroundedState.cs" />
-     <Compile Include="Assets/Scripts/PlayerDashState.cs" />
-     <Compile Include="Assets/Scripts/PlayerState.cs" />
-     <Compile Include="Assets/Scripts/PlayerWallJumpState.cs" />
-     <Compile Include="Assets/Scripts/PlayerMoveState.cs" />
-     <Compile Include="Assets/Scripts/Player.cs" />
-     <Compile Include="Assets/Scripts/PlayerIdleState.cs" />
-     <Compile Include="Assets/Scripts/PlayerJumpState.cs" />
-     <Compile Include="Assets/Scripts/PlayerAirState.cs" />
-     <Compile Include="Assets/Scripts/PlayerWallSlideState.cs" />
-     <Compile Include="Assets/Scripts/PlayerPrimaryAttackState.cs" />
-     <Compile Include="Assets/Scripts/PlayerAnimationTriggers.cs" />
-     <Compile Include="Assets/ParallaxBackground.cs" />
+     <Compile Include="Assets/Scripts/Player/PlayerStateMachine.cs" />
+     <Compile Include="Assets/Scripts/Player/PlayerGroundedState.cs" />
+     <Compile Include="Assets/Scripts/Player/PlayerDashState.cs" />
+     <Compile Include="Assets/Scripts/Player/PlayerState.cs" />
+     <Compile Include="Assets/Scripts/Player/PlayerWallJumpState.cs" />
+     <Compile Include="Assets/Scripts/Player/PlayerMoveState.cs" />
+     <Compile Include="Assets/Scripts/Player/Player.cs" />
+     <Compile Include="Assets/Scripts/Player/PlayerIdleState.cs" />
+     <Compile Include="Assets/Scripts/Player/PlayerJumpState.cs" />
+     <Compile Include="Assets/Scripts/Player/PlayerAirState.cs" />
+     <Compile Include="Assets/Scripts/Player/PlayerWallSlideState.cs" />
+     <Compile Include="Assets/Scripts/Player/PlayerPrimaryAttackState.cs" />
+     <Compile Include="Assets/Scripts/Player/PlayerAnimationTriggers.cs" />
+     <Compile Include="Assets/Scripts/ParallaxBackground.cs" />
+     <Compile Include="Assets/Enemy.cs" />
+     <Compile Include="Assets/EnemyState.cs" />
+     <Compile Include="Assets/EnemyStateMachine.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets/Graphics/Surroundings/Medieval_Castle/Background" />
      <Folder Include="Assets/Graphics/FX/Thunder/Thunder Strike 2" />
@@ -125,6 +128,7 @@
      <Folder Include="Assets/Graphics/Surroundings/Valley_Decor" />
      <Folder Include="Assets/Graphics/FX/Hit/Hits_2" />
      <Folder Include="Assets/Graphics/FX/Arcane/Arcane_Pulse" />
+     <Folder Include="Assets/Scripts/Player" />
      <Folder Include="Assets/Graphics/FX/Fire" />
      <Folder Include="Assets/Graphics/Surroundings/Medieval_Castle/Decorations/Animated Decorations/candelabrum_small" />
      <Reference Include="UnityEngine">
