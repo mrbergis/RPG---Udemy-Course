@@ -59,7 +59,11 @@
      <Compile Include="Assets/EnemyState.cs" />
      <Compile Include="Assets/EnemyStateMachine.cs" />
      <Compile Include="Assets/Entity.cs" />
+     <Compile Include="Assets/EnemySkeleton.cs" />
+     <Compile Include="Assets/SkeletonIdleState.cs" />
+     <Compile Include="Assets/SkeletonMoveState.cs" />
      <Folder Include="Assets" />
+     <Folder Include="Assets/Animation/Animations/Player" />
      <Folder Include="Assets/Graphics/Surroundings/Medieval_Castle/Background" />
      <Folder Include="Assets/Graphics/FX/Thunder/Thunder Strike 2" />
      <Folder Include="Assets/Scripts" />
@@ -75,7 +79,9 @@
      <Folder Include="Assets/Graphics/FX/Arcane/Arcane_Bolt_2" />
      <Folder Include="Assets/Graphics/Icons" />
      <Folder Include="Assets/Graphics/Surroundings/Medieval_Castle/Decorations/Animated Decorations/lever_wall" />
+     <Folder Include="Assets/Animation/Animations" />
      <Folder Include="Assets/Graphics/Enemies/Slime" />
+     <Folder Include="Assets/Animation/Animations/Skeleton" />
      <Folder Include="Assets/Scenes" />
      <Folder Include="Assets/Graphics/FX" />
      <Folder Include="Assets/Graphics/Surroundings/Medieval_Castle/Decorations/Animated Decorations/lever_floor" />
@@ -107,6 +113,7 @@
      <Folder Include="Assets/Graphics/Surroundings/Medieval_Castle/Decorations/Animated Decorations/torch_big" />
      <Folder Include="Assets/Graphics/Font" />
      <Folder Include="Assets/Graphics/Enemies/Red Hood" />
+     <Folder Include="Assets/Animation/Controllers" />
      <Folder Include="Assets/Graphics/Surroundings/Medieval_Castle/Decorations/Animated Decorations/candle_blue_3" />
      <Folder Include="Assets/Graphics/Surroundings/Medieval_Castle/Decorations/Animated Decorations/candle_blue_1" />
      <Folder Include="Assets/Graphics/Enemies/Skeleton" />
@@ -116,7 +123,7 @@
      <Folder Include="Assets/Graphics/FX/Arcane" />
      <Folder Include="Assets/Graphics/FX/Thunder/Thunder Strike" />
      <Folder Include="Assets/Graphics/Surroundings/Medieval_Castle/Decorations/Animated Decorations/candle_1" />
-     <Folder Include="Assets/Animations" />
+     <Folder Include="Assets/Animation" />
      <Folder Include="Assets/Graphics/FX/Hit/Hit_7" />
      <Folder Include="Assets/Graphics/FX/Arcane/Arcane_Wave" />
      <Folder Include="Assets/Graphics/FX/Void_Backlight" />
