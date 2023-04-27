@@ -58,6 +58,7 @@
      <Compile Include="Assets/Enemy.cs" />
      <Compile Include="Assets/EnemyState.cs" />
      <Compile Include="Assets/EnemyStateMachine.cs" />
+     <Compile Include="Assets/Entity.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets/Graphics/Surroundings/Medieval_Castle/Background" />
      <Folder Include="Assets/Graphics/FX/Thunder/Thunder Strike 2" />
