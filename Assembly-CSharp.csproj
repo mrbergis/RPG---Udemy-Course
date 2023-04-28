@@ -66,7 +66,8 @@
      <Compile Include="Assets/Scripts/Enemy/Skeleton/SkeletonGroundedState.cs" />
      <Compile Include="Assets/Scripts/Enemy/Skeleton/SkeletonAttackState.cs" />
      <Compile Include="Assets/Scripts/Enemy/Skeleton/EnemySkeletonAnimationTriggers.cs" />
-     <Compile Include="Assets/EntityFX.cs" />
+     <Compile Include="Assets/Scripts/EntityFX.cs" />
+     <Compile Include="Assets/Scripts/Enemy/Skeleton/SkeletonStunnedState.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets/Animation/Animations/Player" />
      <Folder Include="Assets/Graphics/Surroundings/Medieval_Castle/Background" />
