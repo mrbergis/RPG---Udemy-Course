@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b197fdb1-71c6-421a-b212-feddd39adc59" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.RPG - Udemy Course/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RPG - Udemy Course/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Animations/Player/playerAttack1.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Animations/Player/playerAttack1.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Animations/Player/playerAttack2.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Animations/Player/playerAttack2.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Animations/Player/playerAttack3.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Animations/Player/playerAttack3.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Entity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Entity.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerAnimationTriggers.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerAnimationTriggers.cs" afterDir="false" />
-    </list>
+    <list default="true" id="b197fdb1-71c6-421a-b212-feddd39adc59" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +75,7 @@
       <workItem from="1682362905812" duration="33535000" />
       <workItem from="1682528200950" duration="410000" />
       <workItem from="1682529006907" duration="7691000" />
-      <workItem from="1682543532982" duration="25977000" />
+      <workItem from="1682543532982" duration="26313000" />
     </task>
     <servers />
   </component>
