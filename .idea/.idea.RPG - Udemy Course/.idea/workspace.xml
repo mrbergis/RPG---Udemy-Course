@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b197fdb1-71c6-421a-b212-feddd39adc59" name="Changes" comment="" />
+    <list default="true" id="b197fdb1-71c6-421a-b212-feddd39adc59" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RPG - Udemy Course/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RPG - Udemy Course/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Enemy.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EnemySkeleton.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EnemySkeletonAnimationTriggers.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EnemyState.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EnemyStateMachine.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Entity.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SkeletonAttackState.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SkeletonBattleState.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SkeletonGroundedState.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SkeletonIdleState.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SkeletonMoveState.cs" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,11 +23,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/65a1e0840c48486cae789f6b5d6fb172159e00/e7/8834f374/SpriteRenderer.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/EnemySkeleton.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/EnemyStateMachine.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Entity.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/SkeletonGroundedState.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/SkeletonIdleState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EntityFX.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Behaviours/CinemachineBrain.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -75,7 +85,7 @@
       <workItem from="1682362905812" duration="33535000" />
       <workItem from="1682528200950" duration="410000" />
       <workItem from="1682529006907" duration="7691000" />
-      <workItem from="1682543532982" duration="26313000" />
+      <workItem from="1682543532982" duration="27947000" />
     </task>
     <servers />
   </component>
@@ -98,24 +108,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Assets/EnemyState.cs</url>
-          <line>41</line>
-          <properties documentPath="$PROJECT_DIR$/Assets/EnemyState.cs" initialLine="41" containingFunctionPresentation="method 'AnimationFinishTrigger'">
-            <startOffsets>
-              <option value="945" />
-            </startOffsets>
-            <endOffsets>
-              <option value="967" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
