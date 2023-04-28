@@ -23,14 +23,20 @@ public class SkeletonBattleState : EnemyState
     public override void Update()
     {
         base.Update();
-
+    
         if (_enemy.IsPlayerDetected())
         {
+            _stateTimer = _enemy.battleTime;
             if (_enemy.IsPlayerDetected().distance < _enemy.attackDistance)
             {
                 if(CanAttack())
                     _stateMachine.ChangeState(_enemy.AttackState);
             }
+        }
+        else
+        {
+            if (_stateTimer < 0 || Vector2.Distance(_player.transform.position, _enemy.transform.position) > 10)
+                _stateMachine.ChangeState(_enemy.IdleState);
         }
         
         if (_player.position.x > _enemy.transform.position.x)

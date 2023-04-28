@@ -3,16 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="b197fdb1-71c6-421a-b212-feddd39adc59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RPG - Udemy Course/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RPG - Udemy Course/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Controllers/Skeleton_AC.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Controllers/Skeleton_AC.controller" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Enemy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Enemy.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EnemySkeleton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EnemySkeleton.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EnemyState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EnemyState.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Entity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Entity.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerIdleState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerIdleState.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerPrimaryAttackState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerPrimaryAttackState.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/SkeletonBattleState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SkeletonBattleState.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SkeletonGroundedState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SkeletonGroundedState.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +81,7 @@
       <workItem from="1682362905812" duration="33535000" />
       <workItem from="1682528200950" duration="410000" />
       <workItem from="1682529006907" duration="7691000" />
-      <workItem from="1682543532982" duration="21413000" />
+      <workItem from="1682543532982" duration="23572000" />
     </task>
     <servers />
   </component>
