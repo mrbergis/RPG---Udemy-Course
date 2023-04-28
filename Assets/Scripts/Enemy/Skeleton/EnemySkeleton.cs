@@ -40,4 +40,15 @@ public class EnemySkeleton : Enemy
         base.Start();
         StateMachine.Initialize(IdleState);
     }
+
+    protected override bool CanBeStunned()
+    {
+        if (base.CanBeStunned())
+        {
+            StateMachine.ChangeState(StunnedState);
+            return true;
+        }
+
+        return false;
+    }
 }
