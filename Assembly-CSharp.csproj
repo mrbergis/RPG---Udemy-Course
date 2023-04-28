@@ -62,6 +62,8 @@
      <Compile Include="Assets/EnemySkeleton.cs" />
      <Compile Include="Assets/SkeletonIdleState.cs" />
      <Compile Include="Assets/SkeletonMoveState.cs" />
+     <Compile Include="Assets/SkeletonBattleState.cs" />
+     <Compile Include="Assets/SkeletonGroundedState.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets/Animation/Animations/Player" />
      <Folder Include="Assets/Graphics/Surroundings/Medieval_Castle/Background" />
