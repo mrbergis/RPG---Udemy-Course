@@ -7,11 +7,18 @@ public class SkillManager : MonoBehaviour
 {
     public static SkillManager Instance;
 
+    public DashSkill Dash { get; private set; }
+
     private void Awake()
     {
         if(Instance != null)
             Destroy(gameObject);
         else
             Instance = this;
+    }
+
+    private void Start()
+    {
+        Dash = GetComponent<DashSkill>();
     }
 }
