@@ -70,9 +70,11 @@
      <Compile Include="Assets/Scripts/Enemy/Skeleton/SkeletonStunnedState.cs" />
      <Compile Include="Assets/Scripts/Player/PlayerCounterAttackState.cs" />
      <Compile Include="Assets/Scripts/PlayerManager.cs" />
-     <Compile Include="Assets/Scripts/SkillManager.cs" />
-     <Compile Include="Assets/Scripts/Skill.cs" />
-     <Compile Include="Assets/Scripts/DashSkill.cs" />
+     <Compile Include="Assets/Scripts/Skills/SkillManager.cs" />
+     <Compile Include="Assets/Scripts/Skills/Skill.cs" />
+     <Compile Include="Assets/Scripts/Skills/DashSkill.cs" />
+     <Compile Include="Assets/Scripts/Skills/CloneSkill.cs" />
+     <Compile Include="Assets/Scripts/Skills/CloneSkillController.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets/Animation/Animations/Player" />
      <Folder Include="Assets/Graphics/Surroundings/Medieval_Castle/Background" />
@@ -98,6 +100,7 @@
      <Folder Include="Assets/Graphics/Surroundings/Medieval_Castle/Decorations/Animated Decorations/lever_floor" />
      <Folder Include="Assets/Graphics/Surroundings/Medieval_Castle/Tiles/Tile Assets" />
      <Folder Include="Assets/Graphics/FX/Dust_LeftToRight" />
+     <Folder Include="Assets/Prefabs" />
      <Folder Include="Assets/Graphics/FX/Hit" />
      <Folder Include="Assets/Graphics/FX/Animation Pack" />
      <Folder Include="Assets/Graphics/FX/Hit/Hits_6" />
@@ -113,6 +116,7 @@
      <Folder Include="Assets/Graphics/Surroundings/Medieval_Castle/Decorations/Animated Decorations/torch_big_blue" />
      <Folder Include="Assets/Graphics/FX/MiniTornado" />
      <Folder Include="Assets/Graphics/FX/Arcane/Arcane_Charged_Bolt" />
+     <Folder Include="Assets/Scripts/Skills" />
      <Folder Include="Assets/Graphics" />
      <Folder Include="Assets/Graphics/UI" />
      <Folder Include="Assets/Graphics/Surroundings" />
