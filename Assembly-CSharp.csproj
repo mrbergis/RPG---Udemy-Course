@@ -69,6 +69,8 @@
      <Compile Include="Assets/Scripts/EntityFX.cs" />
      <Compile Include="Assets/Scripts/Enemy/Skeleton/SkeletonStunnedState.cs" />
      <Compile Include="Assets/Scripts/Player/PlayerCounterAttackState.cs" />
+     <Compile Include="Assets/Scripts/PlayerManager.cs" />
+     <Compile Include="Assets/Scripts/SkillManager.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets/Animation/Animations/Player" />
      <Folder Include="Assets/Graphics/Surroundings/Medieval_Castle/Background" />
