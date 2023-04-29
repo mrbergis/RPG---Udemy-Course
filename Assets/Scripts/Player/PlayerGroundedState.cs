@@ -17,6 +17,9 @@ public class PlayerGroundedState : PlayerState
     {
         base.Update();
         
+        if(Input.GetKeyDown(KeyCode.Mouse1))
+            _stateMachine.ChangeState(_player.AimSwordState);
+        
         if(Input.GetKeyDown(KeyCode.Q))
             _stateMachine.ChangeState(_player.CounterAttackState);
         

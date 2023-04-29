@@ -75,6 +75,9 @@
      <Compile Include="Assets/Scripts/Skills/DashSkill.cs" />
      <Compile Include="Assets/Scripts/Skills/CloneSkill.cs" />
      <Compile Include="Assets/Scripts/Skills/CloneSkillController.cs" />
+     <Compile Include="Assets/Scripts/Player/PlayerAimSwordState.cs" />
+     <Compile Include="Assets/Scripts/Player/PlayerCatchSwordState.cs" />
+     <Compile Include="Assets/Scripts/Skills/SwordSkill.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets/Animation/Animations/Player" />
      <Folder Include="Assets/Graphics/Surroundings/Medieval_Castle/Background" />
